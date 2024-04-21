@@ -1,0 +1,22 @@
+.header-main__container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 2.81vw auto 0 auto;
+}
+
+.header-main__navigation_phone {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  gap: 0.47vw;
+  font-size: 0.94vw;
+}
+
+.fat-text {
+  font-weight: 700;
+}
+
+.header-main__navigation_phone_image {
+  width: 1.72vw;
+}

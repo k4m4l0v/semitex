@@ -1,0 +1,15 @@
+.footer-main__container {
+  background-color: #333;
+  padding: 3.12vw;
+}
+
+.footer-main__button {
+  border: none;
+  border-radius: 0.52vw;
+  padding: 0.99vw 2.76vw;
+  color: #fff;
+  font-size: 0.94vw;
+  font-weight: 700;
+  background-color: #969AF7;
+  cursor: pointer;
+}

@@ -1,0 +1,120 @@
+.hero__container {
+  height: 45.4vw;
+  background-color: #F2F2F4;
+  background-image: url(../assets/hero.png);
+  background-position: center;
+  background-size: cover;
+  padding-top: 9.79vw;
+}
+
+.hero__wrapper {
+  width: 70.83vw;
+  margin: 0 auto;
+  color: #fff;
+  display: flex;
+  gap: 2.76vw;
+}
+
+.hero__info_title {
+  font-size: 3.59vw;
+  font-weight: 700;
+  line-height: 3.59vw;
+  margin-bottom: 0.2vw;
+}
+
+.hero__info_text {
+  font-size: 1.2vw;
+  margin-bottom: 1.93vw;
+}
+
+.hero__info_list {
+  list-style: none;
+  font-size: 1.14vw;
+  line-height: 1.46vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.26vw;
+  padding: 1.3vw 1.61vw;
+  background-image: linear-gradient(90deg, rgba(150, 154, 247, 0.3), transparent);
+  border-radius: 0.52vw;
+}
+
+.hero__info_list_item {
+  display: flex;
+  gap: 0.73vw;
+  align-items: center;
+}
+
+.hero__info_list_item img {
+  width: 0.73vw;
+}
+
+.hero__form_container {
+  width: 19.79vw;
+}
+
+.hero__form_header {
+  height: 5.73vw;
+  background-color: #6A32B4;
+  font-weight: 700;
+  font-size: 1.2vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 0.52vw 0.52vw 0 0;
+}
+
+.hero__form_wrapper {
+  background-color: #fff;
+  padding: 1.61vw 2.08vw 1.87vw 2.08vw;
+  border-radius: 0 0 0.52vw 0.52vw;
+}
+
+.hero__form_wrapper label {
+  color: #626366;
+  font-size: 0.94vw;
+}
+
+.hero__form_wrapper form {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero__form_wrapper input {
+  border-radius: 0.52vw;
+  background-color: #F5F3FF;
+  padding: 1.04vw;
+  font-size: 1.04vw;
+  border: none;
+  box-shadow: inset 0.05vw 0.05vw 0.16vw rgba(0, 0, 0, 0.1);
+}
+
+.hero__form_button {
+  margin-top: 1.77vw;
+  margin-bottom: 0.88vw;
+  width: 100%;
+  border: none;
+  border-radius: 0.52vw;
+  background-color: #FFA500;
+  text-align: center;
+  padding: 0.99vw;
+  color: #fff;
+  font-size: 0.94vw;
+}
+
+.hero__form_confidence {
+  color: #C0C0C0;
+  display: flex;
+  align-items: center;
+  gap: 0.52vw;
+  font-size: 0.62vw;
+}
+
+.hero__form_confidence_image {
+  width: 0.83vw;
+}
+
+.blue-text {
+  color: #969AF7;
+}

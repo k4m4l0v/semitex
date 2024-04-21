@@ -1,0 +1,25 @@
+.main__logo {
+  margin-right: 3.23vw;
+  width: 8.07vw;
+  height: 1.46vw;
+}
+
+.main__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__navigation {
+  display: flex;
+  gap: 3.02vw;
+}
+
+.main__navigation_list {
+  display: flex;
+  gap: 2.03vw;
+  list-style: none;
+  align-items: center;
+  color: #fff;
+  font-size: 0.94vw;
+}
